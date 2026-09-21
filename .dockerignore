@@ -5,5 +5,4 @@ __pycache__/
 .gitignore
 .env
 .DS_Store
-*.md
 test.py
